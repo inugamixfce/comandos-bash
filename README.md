@@ -1,3 +1,3 @@
-Hello Word
+#! bin/bash
 
-Primer trabajo en GITHUB
+echo "Hello World"
