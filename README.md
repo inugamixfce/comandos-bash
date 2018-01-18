@@ -1,2 +1,2 @@
-Hello World
-Primer Programa En GITHUB
+Hello Word
+Primer trabajo en GITHUB
