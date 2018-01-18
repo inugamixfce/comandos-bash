@@ -1,3 +1,1 @@
-#! bin/bash
-
-echo hello-world
+PRIMER PROGRAMA EN GITHUB
