@@ -1,3 +1,3 @@
 Hello-World
 
-*Primer trabajo con Gitub*
+*Primer trabajo con GitHub*
