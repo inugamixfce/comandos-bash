@@ -1,6 +1,6 @@
 #!/bin/bash
-#Puesta del Comando clear
-#Ejemplo de Comando figlet
+
+#Programa Nuevo Preguntas y Respuesta del Comando ls
 
 clear
 
