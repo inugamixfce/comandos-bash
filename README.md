@@ -1,1 +1,3 @@
-PRIMER PROGRAMA EN GITHUB
+# COMANDOS BASH
+
+*Primer trabajo con GitHub*
