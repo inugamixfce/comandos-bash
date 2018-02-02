@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 clear
 echo "VIDEOBASE"
 echo "=========="
@@ -15,30 +15,30 @@ case $criterio in
 1)
 echo "¿Cual es el nombre del director?"
 read director
-grep $director /home/antonio/base_pelis/base2.txt
+grep $director /home/inugamixfce/Escritorio/trabajos_github/comandos-bash/base2.txt
 read pausa
-/home/antonio/bash-script/pelibus.sh
+/home/inugamixfce/Escritorio/trabajos_github/comandos-bash/pelibus.sh
 ;;
 2)
 echo "¿Cual es el nombre de la productora?"
 read productora
-grep $productora /home/antonio/base_pelis/base2.txt
+grep $productora  /home/inugamixfce/Escritorio/trabajos_github/comandos-bash/base2.txt
 read pausa
-/home/antonio/bash-script/pelibus.sh
+/home/inugamixfce/Escritorio/trabajos_github/comandos-bash/pelibus.sh
 ;;
 3)
 echo "¿Cual es el titulo de la pelicula?"
 read titulo
-grep $titulo /home/antonio/base_pelis/base2.txt
+grep $titulo  /home/inugamixfce/Escritorio/trabajos_github/comandos-bash/base2.txt
 read pausa
-/home/antonio/bash-script/pelibus.ah
+/home/inugamixfce/Escritorio/trabajos_github/comandos-bash/pelibus.sh
 ;;
 4)
 echo "En que año se produjo la plicula?"
 read ano
-grep $ano /home/antonio/base_pelis/base2.txt
+grep $ano  /home/inugamixfce/Escritorio/trabajos_github/comandos-bash/base2.txt
 read pause
-/home/antonio/bash-script/pelibus.sh
+/home/inugamixfce/Escritorio/trabajos_github/comandos-bash/pelibus.sh
 ;;
 5)
 ;;
